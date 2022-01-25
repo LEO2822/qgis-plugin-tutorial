@@ -24,6 +24,5 @@ Building a plugin in QGIS 3.6 using Python
 
 
 
-prasun@iirs.gov.in
+mtkashid7@gmail.com
 
-July 26, 2019
